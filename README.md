@@ -49,5 +49,12 @@ I make web apps with Next.js and TypeScript. Also into bots, cybersecurity and O
       <td><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Supabase</code> <code>Framer Motion</code></td>
       <td><a href="https://password-generator-nine-pearl.vercel.app/">→ view</a></td>
     </tr>
+    <tr>
+      <td><b>Cyber Scout</b></td>
+      <td>Telegram bot for domain analysis, security checks & threat reputation</td>
+      <td><code>Python</code> <code>python-telegram-bot</code> <code>httpx</code> <code>VirusTotal</code> <code>Google Safe Browsing</code></td>
+      <td><a href="https://github.com/scout0xaa/cyber-scout">→ view</a></td>
+    </tr>
   </tbody>
+</table>
 </table>
